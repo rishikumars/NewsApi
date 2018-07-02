@@ -118,4 +118,8 @@ for(Map<String,String> news:list)
   map.get("urlToImage");
   map.get("publishedAt");
 }
+```
+
+## Sample code
+[Sample](https://github.com/rishikumars/NewsApi)
 
