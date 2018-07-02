@@ -107,7 +107,7 @@ List
 Example 
 
 ```
-List<Map> list=CurrentNews.getHeadlinesByCountry(String country);
+List<Map> list=CurrentNews.getHeadlinesByCountry(Country.NORWAY);
 for(Map<String,String> news:list)
   {
   //map.get("field_name");
