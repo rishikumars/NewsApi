@@ -121,5 +121,5 @@ for(Map<String,String> news:list)
 ```
 
 ## Sample code
-[Sample](https://github.com/rishikumars/NewsApi)
+[Sample code using NewApi library](https://github.com/rishikumars/sampleNews.git)
 
