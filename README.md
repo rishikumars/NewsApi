@@ -51,7 +51,7 @@ CurrentNews.getNewsByLanguage(Language.ENGLISH);
  
  Example 
  ```
- CurrentNew.initApi("your api key");
+ CurrentNews.initApi("your api key");
 ```
 #### 4.After initializing your api key call any of the functions
 
